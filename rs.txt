@@ -1,0 +1,6 @@
+B1 : lấy bài tập về máy bằng lệnh git clone
+B2 : tạo nhánh và di chuyển sang nhánh 'f1_hoainam' bằng lệnh git checkout -b f1_hoainam
+B3 : tạo file t1.txt với nội dung 'hello sep duc'
+B4 : lưu những thay đổi lại bằng lệnh git add . và git commit
+B5 : tạo 1 repo trên github 
+B6 : push bài tập lên repo trên github
